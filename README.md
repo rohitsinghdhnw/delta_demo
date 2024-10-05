@@ -1,2 +1,3 @@
 # delta_demo
-thiis demo class for delta student
+this demo class for delta student
+and creat anew project and build your profile
